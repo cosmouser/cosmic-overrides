@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.Adobe Acrobat Reader DC-socsciprod</string>
+	<string>com.github.cosmic-overrides.jss.AdobeReaderDC</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
