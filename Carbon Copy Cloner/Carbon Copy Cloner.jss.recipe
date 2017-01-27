@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>com.github.cosmic-overrides.jssCarbon Copy Cloner</string>
+	<string>com.github.cosmic-overrides.jss.Carbon Copy Cloner</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
